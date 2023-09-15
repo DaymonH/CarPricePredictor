@@ -33,7 +33,6 @@ zip_to_state_mapping = {
     (3901, 4992): "Maine",
     (48001, 49971): "Michigan",
     (55001, 56763): "Minnesota",
-    (63001, 65899): "kc96 DataMO",
     (38601, 39776): "Mississippi",
     (71233, 71233): "Mississippi",
     (59001, 59937): "Montana",
